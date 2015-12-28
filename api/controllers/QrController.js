@@ -36,7 +36,7 @@ module.exports = {
     //   todo: 'showqr() is not implemented yet!'
     // });
 
-  	// Some data to embed in the code
+  	// Some data to embed in the QR code
 	var text = 'http://alejandroventura.com.mx';
 
 	try {

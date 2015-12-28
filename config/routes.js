@@ -35,7 +35,6 @@ module.exports.routes = {
   '/': {
     view: 'homepage'
   },
-
   'GET /qr': 'QrController.index',
   'GET /qr2': 'QrController.showqr'
 
